@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| CroutonDigital  | https://crouton.digital  | https://x.com/CroutonDigital  | Latvia  | https://github.com/CroutonDigital  | official@crouton.digital | romanv1812, crouton.digital, ak32821  | https://www.mintscan.io/atomone/tx/923002A0B93CFAD5F822841B794557D906F126BB7B4631EA80D0D12BA0823736?height=2017570  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
